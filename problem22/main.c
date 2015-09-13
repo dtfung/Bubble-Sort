@@ -2,8 +2,8 @@
 //  main.c
 //  problem22
 //
-//  Created by Aditya Narayan on 5/20/15.
-//  Copyright (c) 2015 Aditya Narayan. All rights reserved.
+//  Created by Donald Fung on 5/20/15.
+//  Copyright (c) 2015 Donald Fung. All rights reserved.
 //
 
 #include <stdio.h>
